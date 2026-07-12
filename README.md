@@ -35,7 +35,9 @@
 ## 🧠 Who Am I
 
 ```yaml
-const M.Adeel {
+
+const M.Adeel
+{
 name:        Muhammad Adeel
 role:        Software Engineering Undergraduate
 university:  COMSATS University Islamabad (2022 – 2026)
