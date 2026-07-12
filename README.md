@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Muhammad-Adeel11/Muhammad-Adeel11/main/assets/header-banner.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Muhammad-Adeel11/Muhammad-Adeel11/main/header-banner.svg" />
 </div>
 </div>
 
@@ -245,7 +245,7 @@ contact:     "adeelthana122@gmail.com"
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Muhammad-Adeel11/Muhammad-Adeel11/main/assets/footer-banner.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Muhammad-Adeel11/Muhammad-Adeel11/main/footer-banner.svg" />
 
 </div>
 </div>
