@@ -1,0 +1,61 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117">
+        <animate attributeName="stop-color" values="#0d1117;#0e2a47;#0d1117" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#0e75b6">
+        <animate attributeName="stop-color" values="#0e75b6;#1e3c72;#0e75b6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0d1117">
+        <animate attributeName="stop-color" values="#0d1117;#0e2a47;#0d1117" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="scanGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7fd4ff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="dotGradF" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7fd4ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#7fd4ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glowF" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur result="blur">
+        <animate attributeName="stdDeviation" values="1.5;4;1.5" dur="3s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#bgGradF)"/>
+
+  <circle r="3" fill="url(#dotGradF)">
+    <animateMotion path="M80,90 Q400,20 700,70 T1150,40" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="4" fill="url(#dotGradF)">
+    <animateMotion path="M1120,20 Q800,100 500,30 T60,80" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.5" fill="url(#dotGradF)">
+    <animateMotion path="M300,10 Q600,110 900,20 T1180,90" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="-400" y="0" width="400" height="120" fill="url(#scanGradF)">
+    <animateTransform attributeName="transform" type="translate" values="-400 0; 1600 0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="600" y="68" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="24" font-weight="600" fill="#ffffff" filter="url(#glowF)">
+    Thanks for visiting — let's build something that matters.
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+
+  <line x1="480" y1="85" x2="720" y2="85" stroke="#7fd4ff" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite"/>
+  </line>
+</svg>
