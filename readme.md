@@ -8,7 +8,7 @@
 
 🚀 About Me
 
-<img align="right" alt="Coding Animation" width="280" src="https://i1.wp.com/clydeoffices.co.uk/wp-content/uploads/2019/12/support-animation.gif?fit=800%2C600&ssl=1">
+<img align="right" alt="Coding Animation" width="280" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091">
 
 * 🔭 Currently working on **GreenBin Genius**, an AI-powered smart waste sorting web & mobile app, and **GDSC Nexus**, a community & event management platform, with a focus on **Full-Stack Architecture, AI Integration, Image Classification, Backend Architecture, and Cloud Deployment.**
 
@@ -16,8 +16,6 @@
 
 * 👨‍💻 Projects:
   👉 [My GitHub](https://github.com/Muhammad-Adeel11)
-
-* 💬 Ask me about **React/Next.js, Flutter, Django/FastAPI, and AI integration**
 
 * 📫 Email: **[adeelthana122@gmail.com](mailto:adeelthana122@gmail.com)**
 
@@ -36,6 +34,8 @@
 
 # 💻 Programming Languages
 
+<img align="right" alt="Coding Animation" width="280" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
@@ -44,6 +44,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 </p>
+
+
 
 ---
 
@@ -87,7 +89,7 @@
 
 ---
 
-# 📱 Mobile Development
+# 📱 Mobile App Development
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
@@ -129,3 +131,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Adeel11&show_icons=true&locale=en" alt="Muhammad-Adeel11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Adeel11&" alt="Muhammad-Adeel11" /></p>
+
+
