@@ -133,6 +133,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Adeel11&show_icons=true&locale=en" alt="Muhammad-Adeel11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Adeel11&" alt="Muhammad-Adeel11" /></p>
+<p>
+  <img align="center"
+       src="https://streak-stats.demolab.com/?user=Muhammad-Adeel11"
+       alt="Muhammad-Adeel11" />
+</p>
 
 
