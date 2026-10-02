@@ -131,7 +131,7 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Adeel11&show_icons=true&locale=en" alt="Muhammad-Adeel11" /></p>
+
 
 <p>
   <img align="center"
