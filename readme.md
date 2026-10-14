@@ -18,7 +18,7 @@
   👉 [https://my-portfolio2-gold-delta.vercel.app/)
 
 * 👨‍💻 Projects:
-  👉 [My GitHub](https://github.com/Muhammad-Adeel11)
+  👉 [My Projects](https://github.com/Muhammad-Adeel11?tab=repositories)
 
 * 📫 Email: **[adeelthana122@gmail.com](mailto:adeelthana122@gmail.com)**
 
