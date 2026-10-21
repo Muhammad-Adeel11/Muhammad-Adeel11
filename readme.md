@@ -1,5 +1,3 @@
-<p align="center"> <img src="profile-card.svg" alt="Terminal Profile" width="1543"> </p>
-
 <p align="center">
   <img src="wave-header.svg" alt="Muhammad Adeel - Full-Stack Developer. Software Engineering Student at COMSATS University Islamabad, Freelancer, building real projects at itShifts Technologies." width="100%" />
 </p>
