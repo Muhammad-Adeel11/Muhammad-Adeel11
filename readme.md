@@ -123,7 +123,9 @@ I build **full-stack web applications**, **AI-powered products**, and **mobile a
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,60:0E7490,100:0B1220&height=3" width="100%" alt="" />
 
 <p align="center">
-  <a href="mailto:adeelthana122@gmail.com"><img src="https://img.shields.io/badge/EMAIL-adeelthana122@gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="Email" /></a>
+  <a href="mailto:adeelthana122@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adeelthana122%40gmail.com-22D3EE?style=flat&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="Email" />
+  </a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-adeel-b4874033a/"><img src="https://img.shields.io/badge/LINKEDIN-Muhammad_Adeel-0B1220?style=for-the-badge&labelColor=22D3EE" alt="LinkedIn" /></a>
